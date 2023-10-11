@@ -1,2 +1,2 @@
-name_function = "devopstestfunction"
+name_function = "j0tunh3imunique"
 location = "East US"
