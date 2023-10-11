@@ -18,16 +18,16 @@ Con este comando desplegamos los recursos definidos en el código.
 ![Terraform Apply](./images/apply1.png)
 ![Terraform Apply](./images/apply2.png)
 Al finalizar se obtiene la url de la función que desplegamos, la cual se definió en el archivo outputs.tf.
+
+## Resource Group
+Vemos el recurso creado en Azure.
+![Resource Group](./images/rg.png)
 ## URL
 Validamos la ruta 
 ![url](./images/url1.png)
 
 Obtenemos las respuestas esperadas.
 ![url](./images/url2.png)
-
-## Resource Group
-Vemos el recurso creado en Azure.
-![Resource Group](./images/rg.png)
 ## terraform Destroy
 Este comando nos permite eliminar los recursos que creamos desde el código.
 ![Terraform Destroy](./images/destroy1.png)
